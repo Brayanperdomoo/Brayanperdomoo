@@ -72,10 +72,10 @@
 ## 📫 Contacto
 
 <p align="center">
-  <a href="mailto:TU_EMAIL_AQUI">
+  <a href="mailto:brayanperdomo0720@gmail.com">
     <img src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Gmail.svg" width="28"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN_AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/brayan-perdomo-939074366/" target="_blank">
     <img src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Linkedin.svg" width="28"/>
   </a>&nbsp;&nbsp;
   <a href="https://github.com/Brayanperdomoo" target="_blank">
