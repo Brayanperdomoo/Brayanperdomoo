@@ -83,28 +83,3 @@
   </a>
 </p>
 
----
-
-## 💬 Frase del sistema (Modo Terminal)
-
-```bash
-while(alive) {
-  designUI();
-  codeFrontend();
-  testUX();
-  improve();
-}
-
-✅ **Solo reemplaza**:
-- `TU_USUARIO_GITHUB`
-- `TU_EMAIL_AQUI`
-- `TU_LINKEDIN_AQUI`
-
-Si quieres, en el próximo mensaje te lo dejo:
-- 💚 versión **verde hacker**
-- 💜 versión **neón morado**
-- 🐍 con **GitHub Action del snake incluido**
-- 🧠 ajustado 100% a **Frontend / UI Designer**
-
-Dime el siguiente upgrade 😈🔥
-
