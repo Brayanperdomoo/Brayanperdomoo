@@ -78,7 +78,7 @@
   <a href="https://www.linkedin.com/in/TU_LINKEDIN_AQUI" target="_blank">
     <img src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Linkedin.svg" width="28"/>
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/TU_USUARIO_GITHUB" target="_blank">
+  <a href="https://github.com/Brayanperdomoo" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" width="28"/>
   </a>
 </p>
