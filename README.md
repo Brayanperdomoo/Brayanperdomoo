@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Brayanperdomoo/Brayanperdomoo/main/imagen-samurai.jpg" width="100%">
+</p>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=2800&pause=900&color=FF6B9A&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Dojo;Hola%2C+soy+Brayan+Perdomo;Frontend+Developer+%7C+UI+Designer;Code+Like+A+Samurai" />
