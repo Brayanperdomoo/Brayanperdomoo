@@ -42,8 +42,8 @@ Diseñar interfaces es como el camino del samurái:
 <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,tailwind,bootstrap,figma,git,github,vscode&theme=dark" />
 </p>
 
-<p align="center">
 ---
+
 # ⚔️ Proyectos
 
 ### 🎨 UI Dashboard
