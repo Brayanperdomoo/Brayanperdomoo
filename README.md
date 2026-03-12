@@ -63,8 +63,8 @@ Proyectos desarrollados durante mi formación, enfocados en crear interfaces mod
 
 ---
 <img src="https://img.shields.io/badge/Frontend-Developer-ff6b9a?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/UI%20Design-Figma-90dbf4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/UX%20Experience-Design-95d5b2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UI%20Design-Figma-90dbf4?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/UX%20Experience-Design-95d5b2?style=for-the-badge"/>
 
 </p>
 
