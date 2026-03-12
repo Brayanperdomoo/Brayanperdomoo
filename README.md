@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="URL_DE_LA_IMAGEN_DIRECTA" width="100%">
+  <img src="https://www.reddit.com/r/wallpaper/comments/pc8uq4/samurai_doge_3840x2160/?tl=es-419" width="100%">
 </p>
 
 <div align="center">
