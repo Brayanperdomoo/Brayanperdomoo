@@ -51,8 +51,6 @@ Diseñar interfaces es como el camino del samurái:
 </p>
 
 ---
-
-<div align="center">
   
 🖥️ UI Dashboard
 
@@ -74,7 +72,7 @@ Pequeños proyectos y pruebas donde exploro ideas de diseño, animaciones, estil
 
 Interfaces y proyectos desarrollados durante mi formación, aplicando principios de diseño moderno, organización visual y buenas prácticas en frontend.
 
-</div>
+
 
 # 📊 GitHub Stats
 
