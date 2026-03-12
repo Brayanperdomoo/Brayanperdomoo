@@ -43,6 +43,7 @@ Diseñar interfaces es como el camino del samurái:
 </p>
 
 <p align="center">
+---
 # ⚔️ Proyectos
 
 ### 🎨 UI Dashboard
