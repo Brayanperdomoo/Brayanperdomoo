@@ -43,7 +43,24 @@ Diseñar interfaces es como el camino del samurái:
 </p>
 
 <p align="center">
+# ⚔️ Proyectos
 
+### 🎨 UI Dashboard
+Diseño de paneles visuales modernos pensados para mostrar información de forma clara y ordenada. Interfaces limpias, agradables y fáciles de usar en cualquier dispositivo.
+
+### 🧩 Landing Page UI
+Creación de páginas modernas que combinan diseño visual atractivo, buena organización del contenido y una experiencia agradable para quien navega por el sitio.
+
+### 📱 Web Interfaces
+Diseño y desarrollo de interfaces web intuitivas, donde la prioridad es que el usuario pueda navegar de forma simple, cómoda y natural.
+
+### ✨ UI Experiments
+Pequeños proyectos donde exploro ideas de diseño, estilos visuales, animaciones y nuevas formas de mejorar la experiencia en interfaces web.
+
+### 🎓 Proyectos SENA
+Proyectos desarrollados durante mi formación, enfocados en crear interfaces modernas aplicando buenas prácticas de diseño y desarrollo frontend.
+
+---
 <img src="https://img.shields.io/badge/Frontend-Developer-ff6b9a?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/UI%20Design-Figma-90dbf4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/UX%20Experience-Design-95d5b2?style=for-the-badge"/>
@@ -52,26 +69,6 @@ Diseñar interfaces es como el camino del samurái:
 
 ---
   
-🖥️ UI Dashboard
-
-Diseño de paneles visuales modernos pensados para mostrar información de forma clara y organizada. Interfaces limpias, fáciles de entender y adaptadas a diferentes pantallas.
-
-🎨 Landing Pages
-
-Creación de páginas modernas que combinan diseño visual atractivo, buena estructura y una experiencia agradable para el usuario desde el primer momento.
-
-📱 Web Interfaces
-
-Desarrollo de interfaces web intuitivas que buscan que la navegación sea simple, cómoda y natural para cualquier usuario.
-
-✨ UI Experiments
-
-Pequeños proyectos y pruebas donde exploro ideas de diseño, animaciones, estilos visuales y nuevas formas de mejorar la experiencia en interfaces web.
-
-🎓 Proyectos Académicos
-
-Interfaces y proyectos desarrollados durante mi formación, aplicando principios de diseño moderno, organización visual y buenas prácticas en frontend.
-
 
 
 # 📊 GitHub Stats
