@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/1b/04/65/1b04652353d1eb0a7b3ff690a16803be.jpg" width="100%">
+  <img src="URL_DE_LA_IMAGEN_DIRECTA" width="100%">
 </p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=42&duration=2800&pause=900&color=FF6B9A&center=true&vCenter=true&width=1000&lines=Hola+soy+Brayan+Perdomo;Frontend+Developer;Zen+Samurai+Coder" />
+</div>
 
 <div align="center">
 
