@@ -52,22 +52,29 @@ Diseñar interfaces es como el camino del samurái:
 
 ---
 
-# ⚔️ Proyectos
+<div align="center">
+  
+🖥️ UI Dashboard
 
-### 🎨 UI Dashboard
-Dashboard moderno con **React + Tailwind**  
-Diseño limpio, responsive y centrado en UX.
+Diseño de paneles visuales modernos pensados para mostrar información de forma clara y organizada. Interfaces limpias, fáciles de entender y adaptadas a diferentes pantallas.
 
-### 🧩 Landing Page UI
-Landing page con **animaciones y diseño visual atractivo**
+🎨 Landing Pages
 
-### 📱 Web Interfaces
-Interfaces web optimizadas para **experiencia de usuario y accesibilidad**
+Creación de páginas modernas que combinan diseño visual atractivo, buena estructura y una experiencia agradable para el usuario desde el primer momento.
 
-### 🎓 Proyectos SENA
-Interfaces desarrolladas con **buenas prácticas de diseño y desarrollo frontend**
+📱 Web Interfaces
 
----
+Desarrollo de interfaces web intuitivas que buscan que la navegación sea simple, cómoda y natural para cualquier usuario.
+
+✨ UI Experiments
+
+Pequeños proyectos y pruebas donde exploro ideas de diseño, animaciones, estilos visuales y nuevas formas de mejorar la experiencia en interfaces web.
+
+🎓 Proyectos Académicos
+
+Interfaces y proyectos desarrollados durante mi formación, aplicando principios de diseño moderno, organización visual y buenas prácticas en frontend.
+
+</div>
 
 # 📊 GitHub Stats
 
