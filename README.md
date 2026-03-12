@@ -109,7 +109,6 @@ Interfaces desarrolladas con **buenas prácticas de diseño y desarrollo fronten
 
 ---
 
-# 🧘 Filosofía
-
-> “Una buena interfaz no solo se ve bien,  
-> **se siente natural para el usuario**.”
+# 🦦 Filosofía
+> “El diseño de interfaces debe equilibrar estética, funcionalidad 
+> y experiencia para crear productos digitales intuitivos.”
