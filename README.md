@@ -1,3 +1,10 @@
+<!--
+CONFIG
+FULL_NAME: Brayan Alberto Perdomo Perdomo 
+GITHUB_USER: Brayanperdomoo
+EMAIL: brayanperdomo0720@gmail.com
+CODE_ORGANIZATION: code-sena
+-->
 <p align="center">
   <img src="https://preview.redd.it/samurai-doge-3840x2160-v0-i3x7tnc8rrj71.jpg?width=1080&crop=smart&auto=webp&s=5c05ffdbe4667ac566c188cc8ce02845534a5017" width="100%">
 </p>
