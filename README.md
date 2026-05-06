@@ -37,7 +37,6 @@ CODE_ORGANIZATION: code-sena
 
 Me enfoco en crear **interfaces modernas, intuitivas y visualmente atractivas**, combinando diseño y desarrollo para ofrecer la mejor experiencia al usuario.
 
-
 ---
 
 # 🎨 Especialidades
@@ -64,17 +63,17 @@ Me enfoco en crear **interfaces modernas, intuitivas y visualmente atractivas**,
 
 # ⚔️ Proyectos
 
-### 🎨 UI Dashboard
+### 🎨 [Trabajo Gym](https://github.com/Brayanperdomoo/Trabajo-Gym.git)
+Proyecto enfocado en el desarrollo de una solución relacionada con gimnasio, con una estructura pensada para organizar información, funciones y presentación visual de forma clara y ordenada.
+
+### 🧩 [Actividad de Aprendizaje](https://github.com/Brayanperdomoo/Actividad-De-Aprendizaje.git)
+Repositorio creado para actividades académicas y ejercicios de aprendizaje, donde se aplican conocimientos prácticos y se evidencia el avance en el proceso formativo.
+
+### 📱 [Web Site](https://github.com/Brayanperdomoo/Web-Site.git)
+Sitio web diseñado para mostrar una interfaz moderna, limpia y atractiva, priorizando la experiencia del usuario, la buena presentación y la navegación sencilla.
+
+### ✨ UI Dashboard
 Diseño de paneles visuales modernos pensados para mostrar información de forma clara y ordenada. Interfaces limpias, agradables y fáciles de usar en cualquier dispositivo.
-
-### 🧩 Landing Page UI
-Creación de páginas modernas que combinan diseño visual atractivo, buena organización del contenido y una experiencia agradable para quien navega por el sitio.
-
-### 📱 Web Interfaces
-Diseño y desarrollo de interfaces web intuitivas, donde la prioridad es que el usuario pueda navegar de forma simple, cómoda y natural.
-
-### ✨ UI Experiments
-Pequeños proyectos donde exploro ideas de diseño, estilos visuales, animaciones y nuevas formas de mejorar la experiencia en interfaces web.
 
 ### 🎓 Proyectos SENA
 Proyectos desarrollados durante mi formación, enfocados en crear interfaces modernas aplicando buenas prácticas de diseño y desarrollo frontend.
