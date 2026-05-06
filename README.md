@@ -37,10 +37,6 @@ CODE_ORGANIZATION: code-sena
 
 Me enfoco en crear **interfaces modernas, intuitivas y visualmente atractivas**, combinando diseño y desarrollo para ofrecer la mejor experiencia al usuario.
 
-⚔️ **Mi filosofía**
-
-Diseñar interfaces es como el camino del samurái:  
-**precisión, estética y disciplina.**
 
 ---
 
