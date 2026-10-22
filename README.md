@@ -109,9 +109,12 @@ A website designed with a modern, clean, and appealing interface, prioritizing u
 </p>
 
 ---
+# 📈 Contribution Activity
 
+<!-- BEGIN ACTIVITY-GRAPH -->
+<!-- END ACTIVITY-GRAPH -->
 
-
+---
 # 🐍 Contribution Snake
 
 <p align="center">
