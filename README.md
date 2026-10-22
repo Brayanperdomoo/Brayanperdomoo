@@ -110,13 +110,7 @@ A website designed with a modern, clean, and appealing interface, prioritizing u
 
 ---
 
-# 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brayanperdomoo&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=ff6b9a&line=95d5b2&point=ffffff&area=true&area_color=ff6b9a" alt="GitHub Contribution Activity Graph" />
-</p>
-
----
 
 # 🐍 Contribution Snake
 
