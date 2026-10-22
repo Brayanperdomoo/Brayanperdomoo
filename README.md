@@ -77,16 +77,7 @@ A repository created for academic activities and learning exercises, where pract
 
 A website designed with a modern, clean, and appealing interface, prioritizing user experience, visual presentation, and straightforward navigation.
 
-### ✨ UI Dashboard
-
-Modern dashboard designs created to present information clearly and effectively, featuring clean, visually appealing, and user-friendly interfaces across different devices.
-
-### 🎓 SENA Projects
-
-Projects developed during my technical training, focused on building modern interfaces while applying frontend development and design best practices.
-
 ---
-
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-Developer-ff6b9a?style=for-the-badge&labelColor=1b1b1b" alt="Frontend Developer" />
   <img src="https://img.shields.io/badge/UI%20Design-Figma-90dbf4?style=for-the-badge&labelColor=1b1b1b" alt="UI Design with Figma" />
