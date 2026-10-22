@@ -1,13 +1,15 @@
+
+
 <!--
 CONFIG
-FULL_NAME: Brayan Alberto Perdomo Perdomo 
+FULL_NAME: Brayan Alberto Perdomo Perdomo
 GITHUB_USER: Brayanperdomoo
 EMAIL: brayanperdomo0720@gmail.com
 CODE_ORGANIZATION: code-sena
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2d6a4f,100:ff6b9a&height=230&section=header&text=Brayan%20Perdomo&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Frontend%20Developer%20%7C%20UI%20UX%20Designer&descAlignY=58&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2d6a4f,100:ff6b9a&height=230&section=header&text=Brayan%20Perdomo&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=58&descSize=20" width="100%" />
 </p>
 
 <p align="center">
@@ -15,7 +17,7 @@ CODE_ORGANIZATION: code-sena
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=2600&pause=900&color=FF6B9A&center=true&vCenter=true&width=1000&height=80&lines=Hola%2C+soy+Brayan+Perdomo;Frontend+Developer;UI+%2F+UX+Designer;Creating+Modern+Interfaces;Dise%C3%B1ando+experiencias+digitales" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=2600&pause=900&color=FF6B9A&center=true&vCenter=true&width=1000&height=80&lines=Hello%2C+I%27m+Brayan+Perdomo;Frontend+Developer;UI+%2F+UX+Designer;Creating+Modern+Interfaces;Designing+Digital+Experiences" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -23,67 +25,72 @@ CODE_ORGANIZATION: code-sena
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Brayanperdomoo&label=VISITAS%20AL%20PERFIL&color=ff6b9a&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Brayanperdomoo&label=PROFILE%20VIEWS&color=ff6b9a&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Brayanperdomoo?label=FOLLOWERS&style=for-the-badge&color=95d5b2&labelColor=1b4332" alt="GitHub followers" />
   <img src="https://img.shields.io/badge/Code-SENA-90dbf4?style=for-the-badge&labelColor=1b4332" alt="Code SENA" />
 </p>
 
 ---
 
-# 🌸 Sobre mí
+# 🌸 About Me
 
 🧑‍💻 **Frontend Developer**  
-🎨 **Especialista en Diseño UI / UX**  
+🎨 **UI/UX Design Specialist**
 
-Me enfoco en crear **interfaces modernas, intuitivas y visualmente atractivas**, combinando diseño y desarrollo para ofrecer la mejor experiencia al usuario.
-
----
-
-# 🎨 Especialidades
-
-✨ Diseño de interfaces modernas  
-✨ Experiencia de usuario (UX)  
-✨ Animaciones y micro-interacciones  
-✨ Diseño responsive  
-✨ Prototipado y diseño visual  
+I focus on creating **modern, intuitive, and visually appealing interfaces**, combining design and development to deliver engaging and user-friendly digital experiences.
 
 ---
 
-# 🧰 Tecnologías Frontend
+# 🎨 Specialties
+
+✨ Modern interface design  
+✨ User experience (UX)  
+✨ Animations and micro-interactions  
+✨ Responsive web design  
+✨ Prototyping and visual design  
+
+---
+
+# 🧰 Frontend Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,tailwind,bootstrap,figma,git,github,vscode&theme=dark" alt="Frontend Technologies" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=Frontend%20Stack&fontSize=28&fontColor=FF6B9A&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=Frontend%20Stack&fontSize=28&fontColor=FF6B9A&animation=twinkling" alt="Frontend Stack" />
 </p>
 
 ---
 
-# ⚔️ Proyectos
+# ⚔️ Projects
 
-### 🎨 [Trabajo Gym](https://github.com/Brayanperdomoo/Trabajo-Gym.git)
-Proyecto enfocado en el desarrollo de una solución relacionada con gimnasio, con una estructura pensada para organizar información, funciones y presentación visual de forma clara y ordenada.
+### 🎨 [Gym Project](https://github.com/Brayanperdomoo/Trabajo-Gym.git)
 
-### 🧩 [Actividad de Aprendizaje](https://github.com/Brayanperdomoo/Actividad-De-Aprendizaje.git)
-Repositorio creado para actividades académicas y ejercicios de aprendizaje, donde se aplican conocimientos prácticos y se evidencia el avance en el proceso formativo.
+A project focused on developing a gym-related solution, with a structured approach to organizing information, functionality, and visual presentation in a clear and organized way.
 
-### 📱 [Web Site](https://github.com/Brayanperdomoo/Web-Site.git)
-Sitio web diseñado para mostrar una interfaz moderna, limpia y atractiva, priorizando la experiencia del usuario, la buena presentación y la navegación sencilla.
+### 🧩 [Learning Activity](https://github.com/Brayanperdomoo/Actividad-De-Aprendizaje.git)
+
+A repository created for academic activities and learning exercises, where practical knowledge is applied and progress throughout the learning process is documented.
+
+### 📱 [Website](https://github.com/Brayanperdomoo/Web-Site.git)
+
+A website designed with a modern, clean, and appealing interface, prioritizing user experience, visual presentation, and straightforward navigation.
 
 ### ✨ UI Dashboard
-Diseño de paneles visuales modernos pensados para mostrar información de forma clara y ordenada. Interfaces limpias, agradables y fáciles de usar en cualquier dispositivo.
 
-### 🎓 Proyectos SENA
-Proyectos desarrollados durante mi formación, enfocados en crear interfaces modernas aplicando buenas prácticas de diseño y desarrollo frontend.
+Modern dashboard designs created to present information clearly and effectively, featuring clean, visually appealing, and user-friendly interfaces across different devices.
+
+### 🎓 SENA Projects
+
+Projects developed during my technical training, focused on building modern interfaces while applying frontend development and design best practices.
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-Developer-ff6b9a?style=for-the-badge&labelColor=1b1b1b" />
-  <img src="https://img.shields.io/badge/UI%20Design-Figma-90dbf4?style=for-the-badge&labelColor=1b1b1b" />
-  <img src="https://img.shields.io/badge/UX%20Experience-Design-95d5b2?style=for-the-badge&labelColor=1b1b1b" />
+  <img src="https://img.shields.io/badge/Frontend-Developer-ff6b9a?style=for-the-badge&labelColor=1b1b1b" alt="Frontend Developer" />
+  <img src="https://img.shields.io/badge/UI%20Design-Figma-90dbf4?style=for-the-badge&labelColor=1b1b1b" alt="UI Design with Figma" />
+  <img src="https://img.shields.io/badge/UX%20Experience-Design-95d5b2?style=for-the-badge&labelColor=1b1b1b" alt="UX Experience Design" />
 </p>
 
 ---
@@ -95,16 +102,16 @@ Proyectos desarrollados durante mi formación, enfocados en crear interfaces mod
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brayanperdomoo&layout=compact&theme=tokyonight&hide_border=true&title_color=ff6b9a&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brayanperdomoo&layout=compact&theme=tokyonight&hide_border=true&title_color=ff6b9a&text_color=ffffff&bg_color=0d1117" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Brayanperdomoo&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B9A&fire=95D5B2&currStreakLabel=FF6B9A" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Brayanperdomoo&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B9A&fire=95D5B2&currStreakLabel=FF6B9A" alt="GitHub Contribution Streak" />
 </p>
 
 ---
 
-# 🏆 Logros
+# 🏆 Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Brayanperdomoo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" alt="GitHub Trophies" />
@@ -112,23 +119,23 @@ Proyectos desarrollados durante mi formación, enfocados en crear interfaces mod
 
 ---
 
-# 📈 Actividad
+# 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brayanperdomoo&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=ff6b9a&line=95d5b2&point=ffffff&area=true&area_color=ff6b9a" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brayanperdomoo&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=ff6b9a&line=95d5b2&point=ffffff&area=true&area_color=ff6b9a" alt="GitHub Contribution Activity Graph" />
 </p>
 
 ---
 
-# 🐍 Actividad
+# 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Brayanperdomoo/Brayanperdomoo/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Brayanperdomoo/Brayanperdomoo/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
 </p>
 
 ---
 
-# 📫 Contacto
+# 📫 Contact Me
 
 <p align="center">
   <a href="mailto:brayanperdomo0720@gmail.com">
@@ -150,13 +157,7 @@ Proyectos desarrollados durante mi formación, enfocados en crear interfaces mod
 
 ---
 
-# 🦦 Filosofía
-
-> “El diseño de interfaces debe equilibrar estética, funcionalidad 
-> y experiencia para crear productos digitales intuitivos.”
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b9a,50:2d6a4f,100:95d5b2&height=140&section=footer&animation=fadeIn" width="100%" />
 </p>
+
