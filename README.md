@@ -105,7 +105,11 @@ A website designed with a modern, clean, and appealing interface, prioritizing u
 # 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Brayanperdomoo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" alt="GitHub Trophies" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Brayanperdomoo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4"
+    alt="Brayan Perdomo's GitHub Achievements"
+    width="100%"
+  />
 </p>
 
 ---
