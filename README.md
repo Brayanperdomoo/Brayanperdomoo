@@ -109,16 +109,6 @@ A website designed with a modern, clean, and appealing interface, prioritizing u
 </p>
 
 ---
-# 📈 Contribution Activity
-
-<!-- BEGIN ACTIVITY-GRAPH -->
-<picture>
-  <source media="(max-width: 767px)" srcset="activity-graph-mobile.svg">
-  <img src="activity-graph.svg" alt="Activity Graph" width="100%">
-</picture>
-<!-- END ACTIVITY-GRAPH -->
-
----
 # 🐍 Contribution Snake
 
 <p align="center">
