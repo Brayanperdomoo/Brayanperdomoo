@@ -65,15 +65,23 @@ I focus on creating **modern, intuitive, and visually appealing interfaces**, co
 
 # ⚔️ Projects
 
-### 🎨 [Gym Project](https://github.com/Brayanperdomoo/Trabajo-Gym.git)
+### 🌙 [SomnGuard — Driver Fatigue Monitoring System](https://github.com/SomnGuard)
+
+An intelligent road-safety project designed to prevent accidents caused by driver fatigue and microsleep. It combines real-time facial analysis, risk-level alerts, event logging, and a connected platform for monitoring and reviewing driving events. The technology stack includes Python, Java with Spring Boot, React, React Native, and PostgreSQL.
+
+### 🎓 [Code SENA — Software Development Projects](https://github.com/code-sena)
+
+A collection of software development projects associated with SENA Neiva. The organization brings together learning activities, programming projects, database solutions, and software design initiatives focused on developing practical technical skills.
+
+### 🎨 [Gym Project](https://github.com/Brayanperdomoo/Trabajo-Gym)
 
 A project focused on developing a gym-related solution, with a structured approach to organizing information, functionality, and visual presentation in a clear and organized way.
 
-### 🧩 [Learning Activity](https://github.com/Brayanperdomoo/Actividad-De-Aprendizaje.git)
+### 🧩 [Learning Activity](https://github.com/Brayanperdomoo/Actividad-De-Aprendizaje)
 
 A repository created for academic activities and learning exercises, where practical knowledge is applied and progress throughout the learning process is documented.
 
-### 📱 [Website](https://github.com/Brayanperdomoo/Web-Site.git)
+### 📱 [Website](https://github.com/Brayanperdomoo/Web-Site)
 
 A website designed with a modern, clean, and appealing interface, prioritizing user experience, visual presentation, and straightforward navigation.
 
